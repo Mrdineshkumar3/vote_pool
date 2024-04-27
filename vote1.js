@@ -36,7 +36,7 @@ count1++
 
 function somereturn(){
     right1.style.top='0px'
-    right2.style.top='580px'
+    right2.style.top='630px'
     button1.style.backgroundColor=""
     button1.style.color=""
     button1.style.boxShadow=""
@@ -66,7 +66,7 @@ button2.addEventListener('click',()=>{
 
 function somereturn1(){
     right1.style.top='0px'
-    right2.style.top='580px'
+    right2.style.top='630px'
     button2.style.backgroundColor=""
     button2.style.color=""
     button2.style.boxShadow=""
@@ -96,7 +96,7 @@ button3.addEventListener('click',()=>{
 
 function somereturn2(){
     right1.style.top='0px'
-    right2.style.top='580px'
+    right2.style.top='630px'
     button3.style.backgroundColor=""
     button3.style.color=""
     button3.style.boxShadow=""
@@ -125,7 +125,7 @@ button4.addEventListener('click',()=>{
 
 function somereturn3(){
     right1.style.top='0px'
-    right2.style.top='580px'
+    right2.style.top='630px'
     button4.style.backgroundColor=""
     button4.style.color=""
     button4.style.boxShadow=""
